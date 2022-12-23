@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/keccak-256/keccak-256/blob/main/github-header-image%20(1).png)](https://github.com/keccak-256/keccak-256/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/keccak-256/keccak-256/blob/main/github-header-image%20(3).png)
 
-<h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
-<h3 align="center">A passionate Block-end developer</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Zohaib</h1>
+<h3 align="left">A passionate Block-end developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keccak-256" alt="keccak-256" /></a> </p>
 
