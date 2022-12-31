@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Muhammad Zohaib</h1>
 <h3 align="left">A passionate Block-end developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keccak-256" alt="keccak-256" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keccak-256" alt="keccak-256" height="auto" width="auto" /></a> </p>
 
 
 
